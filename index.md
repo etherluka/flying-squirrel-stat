@@ -4,4 +4,4 @@ Welcome to my statistical learning notes!
 
 ## 📚 Posts
 
-- [F-test model comparison](What-is-model-comparision-F-test?.md)
+- [F-test model comparison](What-is-model-comparision-F-test.md)
