@@ -1,6 +1,6 @@
-# ✨ Regression/Calculus for Statistics/Economics
+# ✨ Study Record of Kim-SeongYeon
 
-Welcome to the study record page.
+Website for Statistics/ Sociology/ Economics
 
 ## 📚 Posts
 
