@@ -1,6 +1,5 @@
 # What is model comparison F-test?
 
-[English version] 
 --- 
 In regression analysis, model comparison refers to the process of evaluating whether a **full model** significantly outperforms a **reduced model**.
 
@@ -12,7 +11,7 @@ But why is that?
 
 ---
 
-# [How should we understand a reduced model?]
+# ■ How should we understand a reduced model?
 
 Let’s say there are three explanatory variables. Then the full model can be written as:
 
@@ -29,7 +28,7 @@ Therefore, if we assume β₂ = β₃ = 0, the reduced model becomes:
 
 ---
 
-# [Comparison of reduced and full models]
+# ■ Comparison of reduced and full models
 
 ## Full Model (FM): Y = β₀ + β₁X₁ + β₂X₂ + β₃X₃ + ε  
 ## Reduced Model (RM): Y = β₀ + β₁X₁ + 0X₂ + 0X₃ + ε
@@ -45,7 +44,7 @@ Then the least squares estimates of β₂ and β₃ can be interpreted as being 
 
 ---
 
-# [What if the coefficients are not zero, but equal?]
+# ■ What if the coefficients are not zero, but equal?
 
 ## H₀: β₂ = β₃
 
