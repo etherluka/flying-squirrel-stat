@@ -1,7 +1,7 @@
 # What is model comparison F-test?
 
 [English version] 
----  
+--- 
 In regression analysis, model comparison refers to the process of evaluating whether a **full model** significantly outperforms a **reduced model**.
 
 In this context, it is commonly stated that the reduced model must be **nested** within the full model.  
