@@ -1,4 +1,4 @@
-# ✨ Record of Kim-SeongYeon
+# ✨ Record
 
 Website for Statistics/ Sociology/ Economics
 
