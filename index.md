@@ -1,6 +1,6 @@
-# ✨ Flying-squirrel's Record
+# ✨ Regression/Calculus for Statistics/Economics
 
-Welcome to my statistical learning notes!
+Welcome to the study record page.
 
 ## 📚 Posts
 
