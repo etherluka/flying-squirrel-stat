@@ -1,4 +1,4 @@
-# ✨ Study Record of Kim-SeongYeon
+# ✨ Record of Kim-SeongYeon
 
 Website for Statistics/ Sociology/ Economics
 
