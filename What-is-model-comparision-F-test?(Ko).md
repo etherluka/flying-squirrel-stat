@@ -1,5 +1,5 @@
 # What is model comparision F-test?
-
+ 
 [Korean version]
 ---
 회귀분석에서 모형 검정이란, 
