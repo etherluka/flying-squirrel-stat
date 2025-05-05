@@ -1,6 +1,6 @@
 # What is model comparision F-test?
  
-[Korean version]
+[Korean version] 
 ---
 회귀분석에서 모형 검정이란, 
 축소모형과 완전모형을 두고, 완전모형이 축소모형에 비해 유의미하게 좋은 성과를 내는지 검증하는 방법이다. 
