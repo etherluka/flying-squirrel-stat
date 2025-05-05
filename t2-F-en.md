@@ -11,4 +11,4 @@ with only one explanatory variable, testing that variable is effectively the sam
 
 Below is the derivation that shows how these two statistics come to have this relationship.
 
-![t2=F](https://github.com/user-attachments/assets/eb5ac6c3-0853-41ae-9c1c-d8fcb0687bd9)
+![t2=F](https://github.com/user-attachments/assets/0fc3ce6e-1815-4140-812d-c249a3cfd9ff)
