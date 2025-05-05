@@ -11,4 +11,4 @@ t통계량과 F통계량 사이에 특정한 관계가 성립될 수 있는 이�
 
 다음은 두 통계량이 위와 같은 관계를 갖게 되는 과정을 보여준다.
 
-![t2=F](https://github.com/user-attachments/assets/eb5ac6c3-0853-41ae-9c1c-d8fcb0687bd9)
+![t2=F](https://github.com/user-attachments/assets/1a314abf-8aea-4a0a-afb2-37f4a48483a6)
