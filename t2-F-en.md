@@ -1,5 +1,5 @@
 # t<sup>2</sup> = F
-
+ 
 # ■ Relationship between t-statistic and F-statistic in a simple linear model
 
 In a simple linear model with only one explanatory variable, the t-statistic and F-statistic are related as follows:
