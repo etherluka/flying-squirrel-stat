@@ -6,4 +6,4 @@ Website for Statistics/ Sociology/ Economics
 
 - [(Regression) F-test model comparison](What-is-model-comparision-F-test.md)
 - [(Regression) t<sup>2</sup>=F Relationship](t2-F-en.md)
-- [(Regression) Variable Transformation1_Linearity](variable-trans-en.md)
+- [(Regression) Variable Transformation1_Linearization](variable-trans-en.md)
