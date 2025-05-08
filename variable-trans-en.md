@@ -26,7 +26,7 @@ The problem arises when the regression model is not a nonlinear function of X, b
 ## T<sub>i</sub> = &alpha;β<sup>i</sup>
 
 In such cases, a specific transformation must be applied to express the response variable T as a linear function of β.  
-In the case above, we take the log to bring the exponent X down.
+In the case above, we take the log to bring the exponent i down.
 
 ## log(T<sub>i</sub>) = log(&alpha;) + i log(β)  
 ## Y = log(T<sub>i</sub>), β₀ = log(&alpha;), β₁ = log(β), X = i  
