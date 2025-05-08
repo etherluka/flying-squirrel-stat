@@ -1,5 +1,5 @@
 # Variable Transformation (Variance-Stabilizing Transformation)
-
+ 
 In this section, variable transformation is used for **variance stabilization**.  
 In OLS, **homoscedasticity** is required for hypothesis testing of regression coefficients, and we can address heteroscedasticity through appropriate transformations.
 
