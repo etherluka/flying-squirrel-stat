@@ -7,7 +7,7 @@ This corresponds to the "linearity" among the four regression assumptions we usu
 
 However, in practice, we cannot verify with the data at hand whether Y is a linear function of β.  
 Instead, we check whether Y maintains linearity with respect to X.  
-(Since ŷ is expressed in the form Xβ, if Xβ is a linear function with respect to X, it will also be a linear function with respect to β.)
+(Since ŷ is expressed in the form Xβ̂, if Xβ̂ is a linear function with respect to X, it will also be a linear function with respect to β̂.)
 
 Therefore, even if the relationship between X and Y is nonlinear (e.g., a quadratic relationship), we can simply replace X with X<sup>2</sup> and treat it as a new X (e.g., X<sub>2</sub>).
 
