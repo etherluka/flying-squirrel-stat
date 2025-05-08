@@ -10,6 +10,7 @@ Website for Statistics/ Sociology/ Economics
 - [(Regression) Variable Transformation_(Linearization)](variable-trans-en.md)
 - [(Regression) Variable Transformation_(Variance Stabilization by sqrt)](variable-trans2-en1.md)
 - [(Regression) Variable Transformation_(Variance Stabilization by X<sub>i</sub> term)](variable-trans3-en.md)
+- [(Regression) Variable Transformation_(Variance Stabilization by log)](variable-trans4-en.md)
 
 [Korean Version]
 
@@ -18,3 +19,4 @@ Website for Statistics/ Sociology/ Economics
 - [(회귀분석) 변수 변환(선형화)](variable-trans.md)
 - [(회귀분석) 변수 변환(sqrt를 사용한 분산 안정화)](variable-trans2.md)
 - [(회귀분석) 변수 변환(X<sub>i</sub> term을 사용한 분산 안정화)](variable-trans3.md)
+- [(회귀분석) 변수 변환(log를 사용한 분산 안정화)](variable-trans4.md)
