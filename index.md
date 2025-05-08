@@ -13,7 +13,7 @@ Website for Statistics/ Sociology/ Economics
 
 [Korean Version]
 
-- [(회귀분석) F-test 모델 비](What-is-model-comparision-F-test-ko.md)
+- [(회귀분석) F-test 모델 비교](What-is-model-comparision-F-test-ko.md)
 - [(회귀분석) t<sup>2</sup>=F 관계](t2-F.md)
 - [(회귀분석) 변수 변환(선형화)](variable-trans.md)
 - [(회귀분석) 변수 변환(sqrt를 사용한 분산 안정화)](variable-trans2.md)
