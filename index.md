@@ -3,8 +3,10 @@
 Website for Statistics/ Sociology/ Economics
 
 ## 📚 Posts
-[English Version]
 
+## Regression
+
+[English Version]
 - [(Regression) F-test model comparison](What-is-model-comparision-F-test.md)
 - [(Regression) t<sup>2</sup>=F Relationship](t2-F-en.md)
 - [(Regression) Variable Transformation_(Linearization)](variable-trans-en.md)
@@ -13,7 +15,6 @@ Website for Statistics/ Sociology/ Economics
 - [(Regression) Variable Transformation_(Variance Stabilization by log)](variable-trans4-en.md)
 
 [Korean Version]
-
 - [(회귀분석) F-test 모델 비교](What-is-model-comparision-F-test-ko.md)
 - [(회귀분석) t<sup>2</sup>=F 관계](t2-F.md)
 - [(회귀분석) 변수 변환(선형화)](variable-trans.md)
