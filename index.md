@@ -22,4 +22,4 @@ Website for Statistics/ Sociology/ Economics
 - [(회귀분석) 변수 변환(sqrt를 사용한 분산 안정화)](variable-trans2.md)
 - [(회귀분석) 변수 변환(X<sub>i</sub> term을 사용한 분산 안정화)](variable-trans3.md)
 - [(회귀분석) 변수 변환(log를 사용한 분산 안정화)](variable-trans4.md)
-- [(회귀분석) 가중최소제곱(가중치 관계를 이미 알고 있을 때](wls1.md)
+- [(회귀분석) 가중최소제곱(가중치 관계를 이미 알고 있을 때)](wls1.md)
