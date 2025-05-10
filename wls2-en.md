@@ -3,7 +3,8 @@
 This time, we examine the case where heteroscedasticity can be theoretically assumed in advance due to the nature of the data collection method.  
 It may sound complex, but the example is intuitive.
 
-<Case>  
+# ■ Case
+
 Consider a situation where students are sampled from each of four schools.
 
 Let n<sub>j</sub> (j = 1, 2, 3, 4) be the number of sampled students from a specific school:  
