@@ -5,6 +5,7 @@ Website for Statistics/ Sociology/ Economics
 ## 📚 Posts
 
 ## Regression
+### Reference Material: 『Regression Analysis by Example』Edition 5th, Samprit Chatterjee, Ali S.Hadi
 
 [English Version]
 - [(Regression) F-test model comparison](What-is-model-comparision-F-test.md)
