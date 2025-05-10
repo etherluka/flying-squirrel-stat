@@ -30,4 +30,5 @@ Var(y<sub>i</sub>)= σ<sup>2</sup>/n<sub>i</sub>이 된다는 것을 알고 있�
 ### W<sub>i</sub>= n<sub>i</sub>
 으로 정의하고 모델을 적합시키도록 한다.
 
+
 ![KakaoTalk_20250510_144256205](https://github.com/user-attachments/assets/3d6ded0d-5aba-4702-929c-0d9f85792687)
