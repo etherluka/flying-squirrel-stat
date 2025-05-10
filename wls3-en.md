@@ -27,6 +27,7 @@ Now, consider the following model:
 
 The variance of the error term will appear as follows. This means that within each of the j groups, the data follow the same variance.  
 (It does not vary with i, only with j.)
+
 ![KakaoTalk_20250510_153652174_01](https://github.com/user-attachments/assets/8b33d6c5-20e9-466f-a7c6-bf80c477a93c)
 
 The variance for each group can be expressed as follows:
