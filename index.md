@@ -14,7 +14,7 @@ Website for Statistics/ Sociology/ Economics
 - [(Regression) Variable Transformation_(Variance Stabilization by sqrt)](variable-trans2-en1.md)
 - [(Regression) Variable Transformation_(Variance Stabilization by X<sub>i</sub> term)](variable-trans3-en.md)
 - [(Regression) Variable Transformation_(Variance Stabilization by log)](variable-trans4-en.md) 
-- [(Regression) Weighted Least Squares_(When the weight is already explained)](wls1-en.md)
+- [(Regression) Weighted Least Squares_(When the weight is already known)](wls1-en.md)
 
 [Korean Version]
 - [(회귀분석) F-test 모델 비교](What-is-model-comparision-F-test-ko.md)
