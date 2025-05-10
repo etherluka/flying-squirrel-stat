@@ -1,6 +1,6 @@
 # Weighted Least Squares (WLS) – Case 2
 ---
-This time, we examine the case where #heteroscedasticity can be theoretically assumed in advance due to the nature of the data collection method#.  
+This time, we examine the case where heteroscedasticity can be theoretically assumed in advance due to the nature of the data collection method.  
 It may sound complex, but the example is intuitive.
 
 <Case>  
