@@ -1,12 +1,5 @@
-# ✨ Record
-
-Website for Statistics / Sociology / Economics
-
-## 📚 Posts
-
-## Regression
-
-### Reference Material: 『Regression Analysis by Example』5th Edition, Samprit Chatterjee, Ali S.Hadi
+# ✨ Regression
+### 📚 Reference Material: 『Regression Analysis by Example』5th Edition, Samprit Chatterjee, Ali S.Hadi
 
 [English Version]  
 - [(Regression) F-test model comparison](What-is-model-comparision-F-test.md)  
@@ -18,6 +11,8 @@ Website for Statistics / Sociology / Economics
 - [(Regression) Weighted Least Squares_(When the weight is already known)](wls1-en.md)  
 - [(Regression) Weighted Least Squares_(When the weight is theoretically known)](wls2-en.md)  
 - [(Regression) Weighted Least Squares_(When the weight is unknown)](wls3-en.md)
+- [(Regression) Autocorrelation Problem](autocorr1-en.md)
+- [(Regression) Autocorrelation Problem(The Statistics)](autocorr2-en.md)
 
 [Korean Version]  
 - [(회귀분석) F-test 모델 비교](What-is-model-comparision-F-test-ko.md)  
@@ -29,3 +24,5 @@ Website for Statistics / Sociology / Economics
 - [(회귀분석) 가중최소제곱(가중치 관계를 이미 알고 있을 때)](wls1.md)  
 - [(회귀분석) 가중최소제곱(가중치 관계를 이론적으로 알 수 있을 때)](wls2.md)  
 - [(회귀분석) 가중최소제곱(가중치 관계를 알 수 없을 때)](wls3.md)
+- [(회귀분석) 자기상관 문제](autocorr1.md)
+- [(회귀분석) 자기상관 문제(통계량들)](autocorr2.md)
