@@ -4,48 +4,58 @@ Website for Statistics / Sociology / Economics
 
 ## 📚 Posts
 
-<div style="display: flex;">
+<div style="display: flex; gap: 40px;">
 
-  <div style="flex: 1; padding-right: 20px;">
-    <!-- 왼쪽 영역 -->
-    <h2>Regression</h2>
-    <h3>Reference Material: 『Regression Analysis by Example』5th Edition, Samprit Chatterjee, Ali S.Hadi</h3>
+<!-- 왼쪽 영역 -->
+<div style="flex: 1;">
 
-    <p><strong>[English Version]</strong></p>
-    <ul>
-      <li><a href="What-is-model-comparision-F-test.md">(Regression) F-test model comparison</a></li>
-      <li><a href="t2-F-en.md">(Regression) t<sup>2</sup>=F Relationship</a></li>
-      <li><a href="variable-trans-en.md">(Regression) Variable Transformation_(Linearization)</a></li>
-      <li><a href="variable-trans2-en1.md">(Regression) Variable Transformation_(Variance Stabilization by sqrt)</a></li>
-      <li><a href="variable-trans3-en.md">(Regression) Variable Transformation_(Variance Stabilization by X<sub>i</sub> term)</a></li>
-      <li><a href="variable-trans4-en.md">(Regression) Variable Transformation_(Variance Stabilization by log)</a></li>
-      <li><a href="wls1-en.md">(Regression) Weighted Least Squares_(When the weight is already known)</a></li>
-      <li><a href="wls2-en.md">(Regression) Weighted Least Squares_(When the weight is theoretically known)</a></li>
-      <li><a href="wls3-en.md">(Regression) Weighted Least Squares_(When the weight is unknown)</a></li>
-    </ul>
+### 📘 Regression
 
-    <p><strong>[Korean Version]</strong></p>
-    <ul>
-      <li><a href="What-is-model-comparision-F-test-ko.md">(회귀분석) F-test 모델 비교</a></li>
-      <li><a href="t2-F.md">(회귀분석) t<sup>2</sup>=F 관계</a></li>
-      <li><a href="variable-trans.md">(회귀분석) 변수 변환(선형화)</a></li>
-      <li><a href="variable-trans2.md">(회귀분석) 변수 변환(sqrt를 사용한 분산 안정화)</a></li>
-      <li><a href="variable-trans3.md">(회귀분석) 변수 변환(X<sub>i</sub> term을 사용한 분산 안정화)</a></li>
-      <li><a href="variable-trans4.md">(회귀분석) 변수 변환(log를 사용한 분산 안정화)</a></li>
-      <li><a href="wls1.md">(회귀분석) 가중최소제곱(가중치 관계를 이미 알고 있을 때)</a></li>
-      <li><a href="wls2.md">(회귀분석) 가중최소제곱(가중치 관계를 이론적으로 알 수 있을 때)</a></li>
-      <li><a href="wls3.md">(회귀분석) 가중최소제곱(가중치 관계를 알 수 없을 때)</a></li>
-    </ul>
-  </div>
+**Reference Material:**  
+『Regression Analysis by Example』5th Edition, Samprit Chatterjee, Ali S.Hadi
 
-  <div style="flex: 1; padding-left: 20px;">
-    <!-- 오른쪽 영역 -->
-    <h3>📙 Right Panel</h3>
-    <ul>
-      <li>This area can contain project summaries, news, or navigation.</li>
-      <li>You can embed images, code blocks, or highlight key info.</li>
-      <li>Supports <strong>Markdown</strong> inside HTML as well.</li>
-    </ul>
-  </div>
+---
+
+#### 📗 English Version
+
+- [(Regression) F-test model comparison](What-is-model-comparision-F-test.md)  
+- [(Regression) t² = F Relationship](t2-F-en.md)  
+- [(Regression) Variable Transformation – Linearization](variable-trans-en.md)  
+- [(Regression) Variable Transformation – Variance Stabilization by √](variable-trans2-en1.md)  
+- [(Regression) Variable Transformation – Variance Stabilization by Xᵢ term](variable-trans3-en.md)  
+- [(Regression) Variable Transformation – Variance Stabilization by log](variable-trans4-en.md)  
+- [(Regression) Weighted Least Squares – Known weights](wls1-en.md)  
+- [(Regression) Weighted Least Squares – Theoretical weights](wls2-en.md)  
+- [(Regression) Weighted Least Squares – Unknown weights](wls3-en.md)  
+
+---
+
+#### 📘 Korean Version
+
+- [(회귀분석) F-test 모델 비교](What-is-model-comparision-F-test-ko.md)  
+- [(회귀분석) t² = F 관계](t2-F.md)  
+- [(회귀분석) 변수 변환 – 선형화](variable-trans.md)  
+- [(회귀분석) 변수 변환 – √를 사용한 분산 안정화](variable-trans2.md)  
+- [(회귀분석) 변수 변환 – Xᵢ term을 사용한 분산 안정화](variable-trans3.md)  
+- [(회귀분석) 변수 변환 – log를 사용한 분산 안정화](variable-trans4.md)  
+- [(회귀분석) 가중최소제곱 – 이미 알려진 가중치](wls1.md)  
+- [(회귀분석) 가중최소제곱 – 이론적으로 유도된 가중치](wls2.md)  
+- [(회귀분석) 가중최소제곱 – 알 수 없는 가중치](wls3.md)  
 
 </div>
+
+<!-- 오른쪽 영역 -->
+<div style="flex: 1;">
+
+### 📙 Right Panel
+
+이 영역에는 다음과 같은 내용이 들어갈 수 있습니다:
+
+- 📌 프로젝트 요약, 최근 글
+- 📷 이미지, 코드 블록
+- 📬 연락처나 공지사항
+
+```python
+# 예시: 파이썬 코드 블록
+def greet(name):
+    return f"Hello, {name}!"
