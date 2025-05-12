@@ -8,6 +8,7 @@
 해결 방법 중 Cochrane-Orcutt가 제안한 변환을 통한 자기상관성 제거를 살펴보고자 한다. 
 
 먼저 앞선 포스팅에서 보았던 '1차 자기상관 방정식'을 살펴보도록 하자. 
+
 ![KakaoTalk_20250512_201342271](https://github.com/user-attachments/assets/c830464c-eb69-4b6e-ab66-a60d963c5740)
 
 여기서 W<sub>t</sub>는 i.i.d를 만족하고 N(0, σ<sup>2</sup>)을 따른다는 점에서
@@ -19,9 +20,13 @@
 W<sub>t</sub>가 현실적으로도 목표대상이 될 수 있는 이유는 우리 모형으로 1차 자기상관 방정식을 표현할 수 있기 때문이다. 
 
 먼저 ε<sub>t</sub>와 ε<sub>t-1</sub>를 표현해낸다. 
+
+
 ![KakaoTalk_20250512_201342271_01](https://github.com/user-attachments/assets/c16b5ab1-556b-4e09-bfd9-a4bc885e9091)
 
+
 그 다음 다음과 같은 변환 과정을 통해 W<sub>t</sub>가 오차항이 되도록 하는 새로운 회귀모형을 구축해낸다. 
+
 ![KakaoTalk_20250512_201342271_02](https://github.com/user-attachments/assets/eb964ba9-ddf2-4989-a4ed-d5ee8d9ca5bb)
 
 이 모형은 오차항 가정을 만족시키기 때문에 OLS를 적용할 수 있고,
