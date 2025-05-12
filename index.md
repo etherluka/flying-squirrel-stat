@@ -1,4 +1,4 @@
 Welcome to my main page.
 
-## 카테고리
+## Category
 - [Regression](regression)
