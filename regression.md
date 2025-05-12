@@ -21,6 +21,7 @@
 ■ Autocorrelation Problem
 - [Autocorrelation Problem](autocorr1-en.md)
 - [The Statistics](autocorr2-en.md)
+- [Eliminating Autocorrelation through Transformation](autocorr3-en.md)
 
 ## [Korean Version]  
 
@@ -42,3 +43,4 @@
 ■ 자기상관 문제
 - [자기상관 문제](autocorr1.md)
 - [통계량들](autocorr2.md)
+- [변환을 통한 자기상관성 제거](autocorr3.md)
