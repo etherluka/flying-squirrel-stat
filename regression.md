@@ -1,5 +1,5 @@
-# ✨ Regression
-### 📚 Reference Material: 『Regression Analysis by Example』5th Edition, Samprit Chatterjee, Ali S.Hadi
+# 📉 Regression
+### 📘 Reference Material: 『Regression Analysis by Example』5th Edition, Samprit Chatterjee, Ali S.Hadi
 
 ## [English Version]  
 
