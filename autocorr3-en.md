@@ -34,6 +34,13 @@ Also, ρ can be estimated from the data we have.
 
 Thus, after the transformation, we can recover the original estimates of β₀ and β₁.
 
+# ■ Iterative Estimation Procedure of the Cochrane–Orcutt Method
+
+1) Compute the OLS estimates from the original model.  
+2) Based on the estimates, calculate the residuals and use them to estimate ρ.  
+3) Fit the transformed model using y<sub>t</sub> − ρ̂ y<sub>t−1</sub> and x<sub>t</sub> − ρ̂ x<sub>t−1</sub> to obtain updated estimates of β̂₀ and β̂₁.  
+4) Repeat the above steps until autocorrelation is no longer detected in the model.
+
 # Summary
 
 To summarize: our goal is to estimate β₀ and β₁,  
