@@ -26,7 +26,7 @@
 ## [Korean Version]  
 
 ■ 독립 조사
-- [F-test 모델 비교](What-is-model-comparision-F-test-ko.md)  
+- [F-test 모델 비교](model-comparison-ko.md)  
 - [t² = F 관계](t2-F.md)
 
 ■ 변수 변환
