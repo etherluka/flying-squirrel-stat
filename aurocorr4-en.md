@@ -16,7 +16,6 @@ H is the number of housing starts, P is the population (in millions), and D is m
 
 First, we fit a regression model using P to predict H, and inspect the residuals.
 
-'''r
 model <- lm(H ~ P, data = p219)  
 residuals <- resid(model)
 
@@ -24,7 +23,6 @@ plot(residuals, type = "b", pch = 16,
      xlab = "Observation", ylab = "Residual",  
      main = "Residuals by Observation Order")  
 abline(h = 0, col = "red", lty = 2)
-'''
 
 Image: https://github.com/user-attachments/assets/c92929a7-9d09-4959-a357-a8c6e8fa3bd6
 
@@ -33,9 +31,7 @@ The p-value from the Durbin–Watson test is 6.645e-06, which strongly indicates
 
 Now let’s treat D as the omitted predictor and include it in the model:
 
-'''r
 model1 <- lm(H ~ P + D, data = p219)
-'''
 
 Image: https://github.com/user-attachments/assets/1331754e-7975-44e2-a51b-ab69fa42c4aa
 
