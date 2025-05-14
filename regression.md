@@ -23,7 +23,7 @@
 - [The Statistics](autocorr2-en.md)
 - [Eliminating Autocorrelation through Transformation](autocorr3-en.md)
 - [Autocorrelation and Omitted Predictors](autocorr4-en.md)
-- [Limitations of the Durbin–Watson Statistic](autocorr5-en.md)
+- [The Limitation of the Durbin–Watson Statistic](autocorr5-en.md)
   
 ## [Korean Version]  
 
