@@ -23,6 +23,7 @@
 - [The Statistics](autocorr2-en.md)
 - [Eliminating Autocorrelation through Transformation](autocorr3-en.md)
 - [Autocorrelation and Omitted Predictors](autocorr4-en.md)
+- [Limitations of the Durbin–Watson Statistic](autocorr5-en.md)
   
 ## [Korean Version]  
 
@@ -46,3 +47,4 @@
 - [통계량들](autocorr2.md)
 - [변환을 통한 자기상관성 제거](autocorr3.md)
 - [자기상관성과 결손된 예측변수](autocorr4.md)
+- [더빈-왓슨 통계량의 한계](autocorr5.md)
