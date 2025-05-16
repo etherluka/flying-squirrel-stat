@@ -9,5 +9,5 @@
 
 ### ■ Infinite Series
 
--[Infinite Series & Convergence](infinite-series1.md)
--[Telescoping Series & Geometric Series](infinite-series2.md)
+- [Infinite Series & Convergence](infinite-series1.md)
+- [Telescoping Series & Geometric Series](infinite-series2.md)
