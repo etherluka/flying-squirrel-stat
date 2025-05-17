@@ -11,3 +11,4 @@
 
 - [Infinite Series & Convergence](infinite-series1.md)
 - [Telescoping Series & Geometric Series](infinite-series2.md)
+- [Comparison Tests](infinite-series-test.md)
