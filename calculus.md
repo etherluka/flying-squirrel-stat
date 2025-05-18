@@ -14,3 +14,4 @@
 - [Infinite Series & Convergence](infinite-series1.md)
 - [Telescoping Series & Geometric Series](infinite-series2.md)
 - [Comparison Test & Limit Comparision Test](infinite-series-test.md)
+- [Integral Test](integral-test.md)
