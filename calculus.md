@@ -5,7 +5,7 @@
 
 - [Improper Integral & Type 1](improper-type1.md)
 - [*example* Gamma Function](gamma.md)
-- [*Type1* Comparison Test & Direct Comparison Test & Limit Comparison Test](improper-test.md)
+- [*Type1* Comparison Tests](improper-test.md)
 - [Improper Integral Type 2](improper-type2.md)
 - [*Type2* Comparison Test & Limit Comparison Test](improper-test-2.md)
 
