@@ -27,6 +27,8 @@
 
 ■ Multicollinearity Problem
 - [Understanding the Variance Structure of OLS Estimates](var-betahat-en.md)
+- [The basic concept of Principal Components](pca1-en.md)
+- [Principal Components & Eigen Vector](pca2.md)
 
   
 ## [Korean Version]  
