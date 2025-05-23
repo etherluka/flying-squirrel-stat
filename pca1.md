@@ -13,6 +13,9 @@
 즉, 어떤 벡터가 가장 좋은 요약을 제공하는가는 문제를 해결해야 한다.
 
 아래와 같이 두 가지 상황이 있다.
+
+![KakaoTalk_20250523_152802396](https://github.com/user-attachments/assets/3d550b9c-ed88-4e90-9d75-5d66f91ead9e)
+
 직관적으로 오른쪽 그림의 벡터가 X1, X2를 더 잘 요약하는 것 같다. 그렇다면 우리의 직관은 어떤 근거를 사용하고 있는지 살펴봐야 한다.
 
 ![KakaoTalk_20250523_150302289_01](https://github.com/user-attachments/assets/2c66a720-2d34-48de-9545-96a6f1e1d994)
