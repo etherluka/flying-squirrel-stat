@@ -55,3 +55,6 @@
 
 ■ 다중공선성 문제
 - [OLS 추정치의 분산 구조 익히기](var-betahat.md)
+
+- [주성분의 기본개념](pca1.md)
+- [주성분과 Eigen Vector](pca2.md)
