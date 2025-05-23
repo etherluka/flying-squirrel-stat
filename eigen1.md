@@ -12,7 +12,7 @@ A<sub>ij</sub> = A<sub>ji</sub>으로 보일 수 있다.
 
 대칭행렬의 Eigen vectors는 서로 직각을 이루게 된다. 따라서 Eigen value가 각각 1인 벡터를 생각해볼 때
 평면을 Eigen vector들로 이루어진 행렬로 선형변환(길이가 1이니까 단순 회전이 되겠다)시키면,
-이들은 원래 평면의 기저였던 i<sub>^</sub>과 j<sub>^</sub>을 대신할 수 있는 새로운 기저가 될 가능성이 있어보인다.
+이들은 원래 평면의 기저였던 i<sup>^</sup>과 j<sup>^</sup>을 대신할 수 있는 새로운 기저가 될 가능성이 있어보인다.
 
 ![KakaoTalk_20250523_115501782_01](https://github.com/user-attachments/assets/54f37853-9a29-44db-98d4-bc5d083de844)
 
