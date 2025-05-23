@@ -1,5 +1,5 @@
 # 📉 Calculus
-### 📘 
+### 📘 Calculus Essential For Statistics, Huh Myung-Hoe, Choi Taeryon
 
 ### ■ Improper Integral
 
