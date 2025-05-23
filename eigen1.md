@@ -1,4 +1,4 @@
-# 대칭행렬의 역행렬과 Eigen vectors 
+# 대칭행렬 Eigen vectors의 기저 가능성
 
 # ■ 대칭행렬
 
