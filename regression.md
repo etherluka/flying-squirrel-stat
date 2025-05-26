@@ -28,14 +28,14 @@
 ■ Multicollinearity Problem
 - [Understanding the Variance Structure of OLS Estimates](var-betahat-en.md)
 
- ■ Basic Understanding on Principal Component
+  ● Basic Understanding on Principal Component
   
 - [The basic concept of Principal Components](pca1-en.md)
 - [Principal Components & Eigen Vector](pca2-en.md)
 - [The expression of Principal Components](pca3-en.md)
 - [How Covariance Matrix can represent the original X?](pca4-en.md)
 
- ■ Principal Component Regression
+  ● Principal Component Regression
   
 - [Principal Component Regression 1](pcr1-en.md)
   
@@ -66,11 +66,11 @@
 ■ 다중공선성 문제
 - [OLS 추정치의 분산 구조 익히기](var-betahat.md)
 
- ■ 주성분에 대한 사전 이해
+  ● 주성분에 대한 사전 이해
 - [주성분의 기본개념](pca1.md)
 - [주성분과 Eigen Vector](pca2.md)
 - [주성분의 표현방법](pca3.md)
 - [공분산 행렬이 X를 표현하는 방법](pca4.md)
 
- ■ 주성분 회귀분석
+  ● 주성분 회귀분석
 - [주성분 회귀분석1](pcr1.md)
