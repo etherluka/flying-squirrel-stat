@@ -37,7 +37,7 @@
 
 - ■ Principal Component Regression
   
--[Principal Component Regression 1](pcr1-en.md)
+- [Principal Component Regression 1](pcr1-en.md)
   
 ## [Korean Version]  
 
@@ -67,12 +67,10 @@
 - [OLS 추정치의 분산 구조 익히기](var-betahat.md)
 
 - ■ 주성분에 대한 사전 이해
-  
 - [주성분의 기본개념](pca1.md)
 - [주성분과 Eigen Vector](pca2.md)
 - [주성분의 표현방법](pca3.md)
 - [공분산 행렬이 X를 표현하는 방법](pca4.md)
 
 - ■ 주성분 회귀분석
-  
--[주성분 회귀분석1](pcr1.md)
+- [주성분 회귀분석1](pcr1.md)
