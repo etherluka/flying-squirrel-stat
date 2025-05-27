@@ -37,40 +37,9 @@
 
 ● Principal Component Regression
   
-- [Workflow And Properties of Principal Component Regression](pcr1-en.md)
+- [The Workflow And Properties of Principal Component](pcr1-en.md)
   
 ## [Korean Version]  
 
 ■ 독립 조사
-- [F-test 모델 비교](model-comparison-ko.md)  
-- [t² = F 관계](t2-F.md)
-
-■ 변수 변환
-- [선형화](variable-trans.md)  
-- [sqrt를 사용한 분산 안정화](variable-trans2.md)  
-- [Xᵢ term을 사용한 분산 안정화](variable-trans3.md)  
-- [log를 사용한 분산 안정화](variable-trans4.md)
-
-■ 가중최소제곱법(WLS)
-- [가중치 관계를 이미 알고 있을 때](wls1.md)  
-- [가중치 관계를 이론적으로 알 수 있을 때](wls2.md)  
-- [가중치 관계를 알 수 없을 때](wls3.md)
-
-■ 자기상관 문제
-- [자기상관 문제](autocorr1.md)
-- [통계량들](autocorr2.md)
-- [변환을 통한 자기상관성 제거](autocorr3.md)
-- [자기상관성과 결손된 예측변수](autocorr4.md)
-- [더빈-왓슨 통계량의 한계](autocorr5.md)
-
-■ 다중공선성 문제
-- [OLS 추정치의 분산 구조 익히기](var-betahat.md)
-
-● 주성분에 대한 사전 이해
-- [주성분의 기본개념](pca1.md)
-- [주성분과 Eigen Vector](pca2.md)
-- [주성분의 표현방법](pca3.md)
-- [공분산 행렬이 X를 표현하는 방법](pca4.md)
-
-● 주성분 회귀분석
-- [주성분 회귀분석의 흐름과 특성](pcr1.md)
+- [F-test 모델 비교](model성](pcr1.md)
