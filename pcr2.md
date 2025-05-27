@@ -40,7 +40,7 @@ Model3 또한 Model1, Model2와 같은 정보를 가지고 있다고 이해할 �
 먼저 Model3에서 사용된 주성분들은 모두 Xs의 선형함수로 재표현된다.
 따라서 C들을 Xs로 표현해주면 아래와 같이 적을 수 있다.
 
-![KakaoTalk_20250527_221241904_03](https://github.com/user-attachments/assets/0cb8210f-0cee-4a0b-a61f-1c9c8b64c04b)
+![KakaoTalk_20250527_221241904_04](https://github.com/user-attachments/assets/68201c4c-4d4a-4ff5-9319-90c1977cf584)
 
 이를 각 Xs에 대해 묶어주면 사실상 Model2와 같은 구조란 것을 볼 수 있다.
 또한 표준화된 회귀계수는 본 회귀계수에 Sx/Sy를 곱하여 구할 수 있으므로, Model3을 통해 Model1까지 재표현이 가능하다.
