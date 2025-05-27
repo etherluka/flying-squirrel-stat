@@ -42,4 +42,35 @@
 ## [Korean Version]  
 
 ■ 독립 조사
-- [F-test 모델 비교](model성](pcr1.md)
+- [F-검정을 활용한 모형 비교](What-is-model-comparision-F-test.md)  
+- [t² = F 관계](t2-F.md)  
+
+■ 변수 변환  
+- [선형화](variable-trans.md)  
+- [제곱근을 통한 분산 안정화](variable-trans2.md)  
+- [Xᵢ 항을 통한 분산 안정화](variable-trans3.md)  
+- [로그 변환을 통한 분산 안정화](variable-trans4.md)
+
+■ 가중 최소제곱법  
+- [가중치가 이미 알려진 경우](wls1.md)  
+- [가중치가 이론적으로 유도된 경우](wls2.md)  
+- [가중치가 알려지지 않은 경우](wls3.md)
+
+■ 자기상관 문제  
+- [자기상관 문제](autocorr1.md)  
+- [자기상관 통계량](autocorr2.md)  
+- [변환을 통한 자기상관 제거](autocorr3.md)  
+- [자기상관과 누락된 예측 변수](autocorr4.md)  
+- [더빈–왓슨 통계량의 한계](autocorr5.md)
+
+■ 다중공선성 문제  
+- [OLS 추정량의 분산 구조 이해](var-betahat.md)
+
+● 주성분에 대한 기초 이해  
+- [주성분의 기본 개념](pca1.md)  
+- [주성분과 고유벡터](pca2.md)  
+- [주성분의 표현 방식](pca3.md)  
+- [공분산 행렬이 X를 어떻게 나타내는가?](pca4.md)
+
+● 주성분 회귀  
+- [주성분의 흐름과 특성](pcr1.md)
