@@ -12,15 +12,15 @@
 
 ![KakaoTalk_20250604_234811721](https://github.com/user-attachments/assets/a3fa5867-9839-4da8-a4ea-7e1161fa637f)
 
-# ■ (X<sup>T</sub>X)<sup>-1</sup>
+# ■ (X<sup>T</sup>X)<sup>-1</sup>
 
-바로 이전 포스팅에서 살펴본 것처럼, 회귀계수의 분산은 (X<sup>T</sub>X)<sup>-1</sup>σ으로 표현된다.
-따라서 표준화된 X 데이터일 때 상관계수 행렬이 되는 (X<sup>T</sub>X)<sup>-1</sup>를 살펴보아야 한다.
+바로 이전 포스팅에서 살펴본 것처럼, 회귀계수의 분산은 (X<sup>T</sup>X)<sup>-1</sup>σ으로 표현된다.
+따라서 표준화된 X 데이터일 때 상관계수 행렬이 되는 (X<sup>T</sup>X)<sup>-1</sup>를 살펴보아야 한다.
 
 ![KakaoTalk_20250604_234811721_02](https://github.com/user-attachments/assets/4d2d44a0-8345-43b9-8cba-f7d4b286a32f)
 
 상관계수 행렬의 각 요소(element)는 교차하는 두 변수의 dot product로 이루어져 있다. 따라서 두 벡터가 서로 얼마나 닮았는지를 나타낸다.
-우리가 원하는 (X<sup>T</sub>X)<sup>-1</sup>를 구하기 위해서는, 이 상관계수 행렬의 역행렬을 구해주어야 한다. 
+우리가 원하는 (X<sup>T</sup>X)<sup>-1</sup>를 구하기 위해서는, 이 상관계수 행렬의 역행렬을 구해주어야 한다. 
 다행히 X 변수가 2개인 상황이므로, 잘 알려진 2×2 행렬의 역행렬 공식을 이용해 다음과 같이 행렬을 표현해낸다. 
 
 ![KakaoTalk_20250604_234811721_03](https://github.com/user-attachments/assets/0e8c6dca-7750-4a4e-bdc1-eb0bffe84fca)
