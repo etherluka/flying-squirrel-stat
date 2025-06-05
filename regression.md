@@ -45,6 +45,8 @@
 - [F-검정을 활용한 모형 비교](What-is-model-comparision-F-test.md)  
 - [t² = F 관계](t2-F.md)  
 
+- [표준화의 종류와 상관계수 표현](standardization.md)
+
 ■ 변수 변환  
 - [선형화](variable-trans.md)  
 - [제곱근을 통한 분산 안정화](variable-trans2.md)  
