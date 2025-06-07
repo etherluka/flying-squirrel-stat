@@ -73,7 +73,7 @@
 
 
 2) 문제 탐색
-- [
+- [VIF와 Condition Index](vif_condition_index.md)
    
 4) 해결 방안
    1. 더 많은 예측변수들로부터 새로운 데이터 추출(현실적이지 않음)  
