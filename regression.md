@@ -102,3 +102,4 @@
 
 ▶ 3-3) 능형 회귀
 - [고유값 분해](eigen_decomposition.md)
+- [회귀계수의 전체분산](total_var.md)
