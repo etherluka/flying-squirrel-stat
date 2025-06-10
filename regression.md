@@ -104,3 +104,4 @@
 - [고유값 분해](eigen_decomposition.md)
 - [회귀계수의 전체분산](total_var.md)
 - [능형 회귀 아이디어](ridge_idea.md)
+- [OLS와 능형회귀의 총분산 비교](total_var2.md)
