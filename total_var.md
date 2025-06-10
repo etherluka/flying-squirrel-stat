@@ -16,6 +16,8 @@
 
 ![KakaoTalk_20250610_201940070_01](https://github.com/user-attachments/assets/189acf71-69f3-46eb-a095-2dc1d29e6d69)
 
+trace는 대각성분을 다 더하는 것이기 때문에, 행렬과 달리 곱셈의 순서 영향을 받지 않는다. 
+곱셈 순서에 따라 위치와 순서가 바뀌더라도, 결국 나중에 다 더해버리면 같은 값이 된다. 2*2 matrix를 만들어서 직접 확인해보는 것이 좋다.
 다음과 같이 최종 형태가 계산된다.
 
 ![KakaoTalk_20250610_201940070_02](https://github.com/user-attachments/assets/4a0a1f26-6d2b-436b-9101-24d475153606)
