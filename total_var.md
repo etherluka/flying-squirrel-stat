@@ -1,0 +1,21 @@
+# 회귀계수의 전체분산(Total Variance)
+
+다중공선성에 의해 분산이 폭발한다면, 특정 회귀계수에 대해서만이 아니라 
+각 회귀계수 분산들의 총합을 보는 것이 타당할 것이다.
+
+회귀계수 분산의 총합은 어떻게 계산되는지 확인해본다. 
+먼저 각 회귀계수의 분산은 y의 분산(σ<sup>2</sup>)에 공분산 행렬 역행렬의 대각성분 값의 곱이 된다.
+
+결국 σ<sup>2</sup>과 곱해지는 것은 대각성분이라는 것을 알 수 있다. 
+따라서 결국 회귀계수 분산의 총합은 대각성분의 합인 trace로 표현된다.
+
+![KakaoTalk_20250610_201940070](https://github.com/user-attachments/assets/7425c084-5e42-4e2d-bb86-6afab7eda573)
+
+우리가 구하고자 하는 trace 값은 (X'X)<sup>-1</sup> 행렬의 대각성분 합이다. 
+따라서 이전 포스팅에서 다룬 '고유값 분해'를 이용하여, 먼저 X'X 행렬의 trace가 어떻게 표현되는지를 생각해보자. 
+
+![KakaoTalk_20250610_201940070_01](https://github.com/user-attachments/assets/189acf71-69f3-46eb-a095-2dc1d29e6d69)
+
+다음과 같이 최종 형태가 계산된다.
+
+![KakaoTalk_20250610_201940070_02](https://github.com/user-attachments/assets/4a0a1f26-6d2b-436b-9101-24d475153606)
