@@ -20,7 +20,7 @@ it is standard to include the intercept in X and compute statistics on non-cente
 
 Let’s first look at the general variance derivation.
 
-![KakaoTalk_20250517_234512382](https://github.com/user-attachments/assets/cde7421d-fde8-4f47-bf2e-9d050ed90090)
+![KakaoTalk_20250610_182730876](https://github.com/user-attachments/assets/f0bb5a1f-f9bb-4e80-8984-81ec2f5cac84)
 
 We then compute the portion previously denoted as "A" for convenience, and derive the final variance formula.
 
