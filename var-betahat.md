@@ -16,7 +16,7 @@ OLS 추정량을 구할 때 등장하는 (X<sup>T</sup>X)<sup>-1</sup> 행렬은
 
 따라서 먼저 일반적인 분산 과정을 살펴본다.
 
-![KakaoTalk_20250517_234512382](https://github.com/user-attachments/assets/cde7421d-fde8-4f47-bf2e-9d050ed90090)
+![KakaoTalk_20250610_182730876](https://github.com/user-attachments/assets/91e64d3a-6d85-4257-a0e2-d657287a95b9)
 
 계산의 편의를 위해 'A'로 치환해놓았던 부분을 계산하고, 최종 분산을 구해준다.
 
