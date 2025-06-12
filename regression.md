@@ -47,7 +47,7 @@
 
 - [표준화의 종류와 상관계수 표현](standardization.md)
 
-■ 변수 변환  
+■ 변수 변환 (회귀 가정에서 주로 '선형화'와 '등분산성' 조건을 맞추는 데 사용)
 - [선형화](variable-trans.md)  
 - [제곱근을 통한 분산 안정화](variable-trans2.md)  
 - [Xᵢ 항을 통한 분산 안정화](variable-trans3.md)  
