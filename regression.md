@@ -107,4 +107,5 @@
 - [OLS와 능형회귀의 총분산 비교](total_var2.md)
 
 ■ 변수 선택
+- [RMS](rms.md)
 - [Mallows C<sub>p</sub>](cp.md)
