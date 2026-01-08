@@ -4,7 +4,7 @@
 ## [English Version]  
 
 ■ Independent Study
-- [F-test model comparison](regression/What-is-model-comparision-F-test.md)  
+- [F-test model comparison](What-is-model-comparision-F-test)  
 - [t² = F Relationship](regression/t2-F-en.md)  
 
 ■ Variable Transformation
