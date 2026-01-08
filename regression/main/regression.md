@@ -5,57 +5,57 @@
 
 ■ Independent Study
 - [F-test model comparison](/regression/What-is-model-comparision-F-test)  
-- [t² = F Relationship](/regression/t2-F-en.md)  
+- [t² = F Relationship](/regression/t2-F-en)  
 
 ■ Variable Transformation
 - [Linearization](/regression/variable-trans-en)  
-- [Variance Stabilization by sqrt](/regression/variable-trans2-en1.md)  
-- [Variance Stabilization by Xᵢ term](/regression/variable-trans3-en.md)  
-- [Variance Stabilization by log](/regression/variable-trans4-en.md)
+- [Variance Stabilization by sqrt](/regression/variable-trans2-en1)  
+- [Variance Stabilization by Xᵢ term](/regression/variable-trans3-en)  
+- [Variance Stabilization by log](/regression/variable-trans4-en)
 
 ■ Weighted Least Squares
-- [When the weight is already known](/regression/wls1-en.md)  
-- [When the weight is theoretically known](/regression/wls2-en.md)  
-- [When the weight is unknown](/regression/wls3-en.md)
+- [When the weight is already known](/regression/wls1-en)  
+- [When the weight is theoretically known](/regression/wls2-en)  
+- [When the weight is unknown](/regression/wls3-en)
 
 ■ Autocorrelation Problem
-- [Autocorrelation Problem](/regression/autocorr1-en.md)
+- [Autocorrelation Problem](/regression/autocorr1-en)
 - [The Statistics](/regression/autocorr2-en.md)
-- [Eliminating Autocorrelation through Transformation](/regression/autocorr3-en.md)
-- [Autocorrelation and Omitted Predictors](/regression/autocorr4-en.md)
-- [The Limitation of the Durbin–Watson Statistic](/regression/autocorr5-en.md)
+- [Eliminating Autocorrelation through Transformation](/regression/autocorr3-en)
+- [Autocorrelation and Omitted Predictors](/regression/autocorr4-en)
+- [The Limitation of the Durbin–Watson Statistic](/regression/autocorr5-en)
 
 ■ Multicollinearity Problem
-- [Understanding the Variance Structure of OLS Estimates](/regression/var-betahat-en.md)
+- [Understanding the Variance Structure of OLS Estimates](/regression/var-betahat-en)
 
 ● Basic Understanding on Principal Component
   
-- [The basic concept of Principal Components](/regression/pca1-en.md)
-- [Principal Components & Eigen Vector](/regression/pca2-en.md)
-- [The expression of Principal Components](/regression/pca3-en.md)
-- [How Covariance Matrix can represent the original X?](/regression/pca4-en.md)
+- [The basic concept of Principal Components](/regression/pca1-en)
+- [Principal Components & Eigen Vector](/regression/pca2-en)
+- [The expression of Principal Components](/regression/pca3-en)
+- [How Covariance Matrix can represent the original X?](/regression/pca4-en)
 
 ● Principal Component Regression
   
-- [The Workflow And Properties of Principal Component](/regression/pcr1-en.md)
+- [The Workflow And Properties of Principal Component](/regression/pcr1-en)
   
 ## [Korean Version]  
 
 ■ 독립 조사
-- [F-검정을 활용한 모형 비교](/regression/What-is-model-comparision-F-test.md)  
-- [t² = F 관계](/regression/t2-F.md)  
+- [F-검정을 활용한 모형 비교](/regression/What-is-model-comparision-F-test)  
+- [t² = F 관계](/regression/t2-F)  
 
-- [표준화의 종류와 상관계수 표현](/regression/standardization.md)
+- [표준화의 종류와 상관계수 표현](/regression/standardization)
 
 ■ 최소제곱법과 중회귀모형
 
-- [단순회귀모형 최소제곱법](/regression/ols1.md)
+- [단순회귀모형 최소제곱법](/regression/ols1)
 
 ■ 변수 변환 (회귀 가정에서 주로 '선형화'와 '등분산성' 조건을 맞추는 데 사용)
-- [선형화](/regression/variable-trans.md)  
-- [제곱근을 통한 분산 안정화](/regression/variable-trans2.md)  
-- [Xᵢ 항을 통한 분산 안정화](/regression/variable-trans3.md)  
-- [로그 변환을 통한 분산 안정화](/regression/variable-trans4.md)
+- [선형화](/regression/variable-trans)  
+- [제곱근을 통한 분산 안정화](/regression/variable-trans2)  
+- [Xᵢ 항을 통한 분산 안정화](/regression/variable-trans3)  
+- [로그 변환을 통한 분산 안정화](/regression/variable-trans4)
 
 ■ 가중 최소제곱법  
 - [가중치가 이미 알려진 경우](/regression/wls1.md)  
