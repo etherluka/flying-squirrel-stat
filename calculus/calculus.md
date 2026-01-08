@@ -3,15 +3,15 @@
 
 ### ■ Improper Integral
 
-- [Improper Integral & Type 1](/calculus/improper-type1.md)
-- [*example* Gamma Function](/calculus/gamma.md)
-- [*Type1* Comparison Tests](/calculus/improper-test.md)
-- [Improper Integral Type 2](/calculus/improper-type2.md)
-- [*Type2* Comparison Test & Limit Comparison Test](/calculus/improper-test-2.md)
+- [Improper Integral & Type 1](improper-type1)
+- [*example* Gamma Function](gamma)
+- [*Type1* Comparison Tests](improper-test)
+- [Improper Integral Type 2](improper-type2)
+- [*Type2* Comparison Test & Limit Comparison Test](improper-test-2)
 
 ### ■ Infinite Series
 
-- [Infinite Series & Convergence](/calculus/infinite-series1.md)
-- [Telescoping Series & Geometric Series](/calculus/infinite-series2.md)
-- [Comparison Test & Limit Comparision Test](/calculus/infinite-series-test.md)
-- [Integral Test](/calculus/integral-test.md)
+- [Infinite Series & Convergence](infinite-series1)
+- [Telescoping Series & Geometric Series](infinite-series2)
+- [Comparison Test & Limit Comparision Test](infinite-series-test)
+- [Integral Test](integral-test)
