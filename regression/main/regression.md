@@ -8,7 +8,7 @@
 - [t² = F Relationship](/regression/t2-F-en.md)  
 
 ■ Variable Transformation
-- [Linearization](/regression/variable-trans-en.md)  
+- [Linearization](/regression/variable-trans-en)  
 - [Variance Stabilization by sqrt](/regression/variable-trans2-en1.md)  
 - [Variance Stabilization by Xᵢ term](/regression/variable-trans3-en.md)  
 - [Variance Stabilization by log](/regression/variable-trans4-en.md)
